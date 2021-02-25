@@ -1,0 +1,15 @@
+bot:
+  name: javacore_quizbot
+  token: 1651748934:AAE8HjFZktVNM44BPlJSFmALkfGEPZTybfc
+spring:
+  jpa:
+    database: POSTGRESQL
+    show-sql: true
+    hibernate:
+      ddl-auto: create-drop
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://ec2-54-74-14-109.eu-west-1.compute.amazonaws.com:5432/d4850nvrrlqcv0
+    username: kubvzaqvtkzxne
+    password: 2e83f4b91b08ddf0d5d86abfd75ff7b850d28f23badded20487314b53b19e5c2
+    driverClassName: org.postgresql.Driver
