@@ -1,6 +1,7 @@
 bot:
   name: javacore_quizbot
   token: 1651748934:AAE8HjFZktVNM44BPlJSFmALkfGEPZTybfc
+
 spring:
   jpa:
     database: POSTGRESQL
