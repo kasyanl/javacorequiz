@@ -1,4 +1,4 @@
-INSERT INTO public.java_quiz (id, answer_correct, option2, option3, option1, question)
+INSERT INTO java_quiz (id, answer_correct, option2, option3, option1, question)
 VALUES
        (1, 'long', 'int', 'byte', 'short', 'Какая переменная примитивного типа может содержать наибольшее число?'),
        (2, 'int', 'Integer', 'long', 'double', 'Какая переменная примитивного типа используется по умолчанию в качестве принимаемого целочисленного числа?'),

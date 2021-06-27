@@ -1,15 +1,15 @@
-bot:
-  name: javacore_quizbot
-  token: 1651748934:AAE8HjFZktVNM44BPlJSFmALkfGEPZTybfc
-spring:
-  jpa:
-    database: POSTGRESQL
-    show-sql: true
-    hibernate:
-      ddl-auto: create-drop
-  datasource:
-    platform: postgres
-    url: jdbc:postgresql://ec2-54-74-14-109.eu-west-1.compute.amazonaws.com:5432/d4850nvrrlqcv0
-    username: kubvzaqvtkzxne
-    password: 2e83f4b91b08ddf0d5d86abfd75ff7b850d28f23badded20487314b53b19e5c2
-    driverClassName: org.postgresql.Driver
+bot.name: java_core_qwiz_bot
+bot.token: 1608055126:AAGomtcHNSb61HkPkde128SgEYnNA-_3jL0
+
+#spring:
+#  jpa:
+#    database: POSTGRESQL
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: create-drop
+#  datasource:
+#    platform: postgres
+#    url: jdbc:postgresql://ec2-52-208-221-89.eu-west-1.compute.amazonaws.com:5432/dcaf4joc6ee1dr
+#    username: megcfypsttffpn
+#    password: c13314c8f9aba164387514b70b01dd5b69bd384eb7126062aaa6f10ba3b52a08
+#    driverClassName: org.postgresql.Driver
